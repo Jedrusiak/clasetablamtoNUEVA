@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.FlowPane?>
+
+<FlowPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/20" xmlns:fx="http://javafx.com/fxml/1" fx:controller="es.tiernoparla.dam.instituto.view.SegundaViewController">
+   <children>
+      <Label text="Segunda View" />
+      <Button fx:id="btnVolver" mnemonicParsing="false" onMouseClicked="#irViewPrincipal" text="Volver a la otra View" />
+   </children>
+</FlowPane>
