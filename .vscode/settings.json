@@ -5,13 +5,13 @@
 	"java.project.outputPath": "bin",
 	"java.project.referencedLibraries": [
 		"lib/**/*.jar",
-		"/home/julian/javafx-sdk-20.0.1/lib/javafx.base.jar",
-		"/home/julian/javafx-sdk-20.0.1/lib/javafx.controls.jar",
-		"/home/julian/javafx-sdk-20.0.1/lib/javafx.fxml.jar",
-		"/home/julian/javafx-sdk-20.0.1/lib/javafx.graphics.jar",
-		"/home/julian/javafx-sdk-20.0.1/lib/javafx.media.jar",
-		"/home/julian/javafx-sdk-20.0.1/lib/javafx.swing.jar",
-		"/home/julian/javafx-sdk-20.0.1/lib/javafx.web.jar",
-		"/home/julian/javafx-sdk-20.0.1/lib/javafx-swt.ja"
+		"c:/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib/javafx.base.jar",
+		"c:/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib/javafx.controls.jar",
+		"c:/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib/javafx.fxml.jar",
+		"c:/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib/javafx.graphics.jar",
+		"c:/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib/javafx.media.jar",
+		"c:/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib/javafx.swing.jar",
+		"c:/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib/javafx.web.jar",
+		"c:/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib/javafx-swt.ja"
 	]
 }
